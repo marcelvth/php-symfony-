@@ -1,0 +1,11 @@
+{
+    "name": "demo/php-symfony",
+    "description": "Eenvoudige MVC-opzet met HomeController en indexpagina",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
